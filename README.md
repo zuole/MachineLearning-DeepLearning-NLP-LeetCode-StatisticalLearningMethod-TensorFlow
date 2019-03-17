@@ -1,4 +1,4 @@
-# MachineLearningDeepLearningNLPLeetCode
+# MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod
 最近在学习机器学习，深度学习，自然语言处理，统计学习方法等知识，所以决定自己将学习的相关算法用Python实现一遍，并结合GitHub上相关大牛的代码进行改进，本项目会不断的更新相关算法，欢迎star，fork和关注。  
 主要包括：  
 1.吴恩达Andrew Ng老师的机器学习课程个人笔记 Python实现，  
