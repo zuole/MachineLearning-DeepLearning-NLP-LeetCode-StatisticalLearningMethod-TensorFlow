@@ -8,7 +8,7 @@
 5.LeetCode刷题，题析，分析心得笔记 Java和Python代码实现，  
 附带一些个人心得和笔记。GitHub上有很多机器学习课程的代码资源，我也准备自己实现一下，后续会更新笔记，代码和百度云网盘链接。        
 这个项目主要是学习算法的，并且会不断更新相关资源和代码，欢迎关注，star，fork！  
-Min's blog 欢迎访问我的博客主页！  (Welcome to my blog website !)https://liweimin1996.github.io/
+Min's blog 欢迎访问我的博客主页！  (Welcome to my blog website !)https://liweimin1996.github.io/  
 
 # 1.机器学习
 吴恩达老师的机器学习课程个人笔记 Python代码实现
