@@ -1,23 +1,42 @@
-# MachineLearningDeepLearningNLP
-吴恩达老师的机器学习课程个人笔记，deeplearning.ai（吴恩达老师的深度学习课程笔记及资源），吴恩达机器学习深度学习课后作业练习Python实现，李航《统计学习方法》的Python代码实现，附带一些个人笔记。GitHub上有很多吴恩达课程的代码资源，我也准备自己实现一下，后续会更新笔记，代码和百度云网盘链接。深度学习人工智能大数据吴恩达Andrew Ng      
-
+# MachineLearningDeepLearningNLPLeetCode
+最近在学习机器学习，深度学习，自然语言处理，统计学习方法等知识，所以决定自己将学习的相关算法用Python实现一遍，并结合GitHub上相关大牛的代码进行改进，本项目会不断的更新相关算法，欢迎star，fork和关注。
+主要包括：
+1.吴恩达Andrew Ng老师的机器学习课程个人笔记 Python实现，
+2.deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） Python实现，
+3.李航《统计学习方法》 Python代码实现，
+4.北京大学常宝宝老师同步课程 Python代码实现，
+5.LeetCode刷题，题析，分析心得笔记 Java和Python代码实现，
+附带一些个人心得和笔记。GitHub上有很多机器学习课程的代码资源，我也准备自己实现一下，后续会更新笔记，代码和百度云网盘链接。      
+这个项目主要是学习算法的，并且会不断更新相关资源和代码，欢迎关注，star，fork！
 Min's blog 欢迎访问我的博客主页！(Welcome to my blog website !)https://liweimin1996.github.io/
 
-# 机器学习
+# 1.机器学习
 吴恩达老师的机器学习课程个人笔记 Python代码实现
-# 深度学习
+- ex1-linear regression 作业1 线性回归
+- ex2-logistic regression 作业2 logistic回归
+- ex3-neural network 作业3 神经网络
+- ex4-NN back propagation 作业4 神经网络反向传播
+- ex5-bias vs variance 作业5 贝叶斯和方差
+- ex6-SVM 作业6 支持向量机
+- ex7-kmeans and PCA 作业7 kmeans算法和主成分分析
+- ex8-anomaly detection and recommendation 作业8 异常检测和推荐
+
+# 2.深度学习
 deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） Python代码实现
-# 统计学习方法
+# 3.统计学习方法
 《统计学习方法》的代码实现李航老师 Python代码实现
-# 自然语言处理
+# 4.自然语言处理
 北京大学常宝宝老师同步课程 Python代码实现
+# 5.LeetCode刷题，题析，分析心得笔记
 
 # 普通程序员如何正确学习人工智能方向的知识？
 ## 第一步：复习线性代数。
-懒得看书就直接用了著名的——麻省理工公开课：线性代数，深入浅出效果拔群，以后会用到的SVD、希尔伯特空间等都有介绍；http://open.163.com/special/opencourse/daishu.html
+懒得看书就直接用了著名的——麻省理工公开课：线性代数，深入浅出效果拔群，以后会用到的SVD、希尔伯特空间等都有介绍；
+http://open.163.com/special/opencourse/daishu.html
 
 ## 入门机器学习算法。
-还是因为比较懒，也就直接用了著名的——斯坦福大学公开课 ：机器学习课程，吴恩达教授的老版cs229的视频，讲的非常细（算法的目标->数学推演->伪代码）。这套教程唯一的缺点在于没有介绍最近大火的神经网络，但其实这也算是优点，让我明白了算法都有各自的应用领域，并不是所有问题都需要用神经网络来解决；http://open.163.com/special/opencourse/machinelearning.html
+还是因为比较懒，也就直接用了著名的——斯坦福大学公开课 ：机器学习课程，吴恩达教授的老版cs229的视频，讲的非常细（算法的目标->数学推演->伪代码）。这套教程唯一的缺点在于没有介绍最近大火的神经网络，但其实这也算是优点，让我明白了算法都有各自的应用领域，并不是所有问题都需要用神经网络来解决；
+http://open.163.com/special/opencourse/machinelearning.html
 
 多说一点，这个课程里详细介绍的内容有：一般线性模型、高斯系列模型、SVM理论及实现、聚类算法以及EM算法的各种相关应用、PCA/ICA、学习理论、马尔可夫系列模型。课堂笔记在：CS 229: Machine Learning (Course handouts)，同样非常详细。
 http://cs229.stanford.edu/materials.html
@@ -58,11 +77,4 @@ Machine Learning(机器学习)是研究计算机怎样模拟或实现人类的�
 （三）在机器学习的最佳实践（偏差/方差理论；在机器学习和人工智能创新过程）。本课程还将使用大量的案例研究，您还将学习如何运用学习算法构建智能机器人（感知，控制），文本的理解（Web搜索，反垃圾邮件），计算机视觉，医疗信息，音频，数据挖掘，和其他领域。
 
 本课程需要10周共18节课，相对以前的机器学习视频，这个视频更加清晰，而且每课都有ppt课件，推荐学习。
-
-
-
-
-
-
-
 
