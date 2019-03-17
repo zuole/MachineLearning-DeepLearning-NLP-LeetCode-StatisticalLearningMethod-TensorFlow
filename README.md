@@ -20,13 +20,49 @@ Min's blog 欢迎访问我的博客主页！  (Welcome to my blog website !)http
 - ex6-SVM 作业6 支持向量机
 - ex7-kmeans and PCA 作业7 kmeans算法和主成分分析
 - ex8-anomaly detection and recommendation 作业8 异常检测和推荐
-
+  
 # 2.深度学习
 deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） Python代码实现
+## 1.Neural Networks and Deep Learning
+Week1　Introduction to deep learning
+Week2　Neural Networks Basics
+Week3　Shallow Neural networks
+Week4　Deep Neural Networks
+
+## 2.Improving Deep Neural Networks
+Week1　Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)
+Week2　Optimization algorithms
+Week3　Hyperparameter tuning, Batch Normalization and Programming Frameworks
+
+## 3.Convolutional Neural Network
+Week1　Foundations of Convolutional Neural Networks
+Week2　Deep convolutional models: case studies
+Week3　Object detection
+Week4　Special applications: Face recognition & Neural style transfer
+
+## 4.Sequence Models
+Week1　Recurrent Neural Networks
+Week2　Natural Language Processing & Word Embeddings
+Week3　Sequence models & Attention mechanism
+  
 # 3.统计学习方法
 《统计学习方法》的代码实现李航老师 Python代码实现
+- 第 1 章 统计学习方法概论
+- 第 2 章 感知机 [感知机代码-原始形式] [感知机代码-对偶形式]
+- 第 3 章 k近邻算法 [k近邻代码] [kd树简化版代码] [kd树完整版代码] [错误kd树代码]
+- 第 4 章 朴素贝叶斯法
+- 第 5 章 决策树
+- 第 6 章 逻辑斯谛回归与最大熵模型
+- 第 7 章 支持向量机
+- 第 8 章 提升方法 [AdaBoost代码]
+- 第 9 章 EM算法及其推广
+- 第 10 章 隐马尔科夫模型
+- 第 11 章 条件随机场
+- 第 12 章 统计学习方法总结
+  
 # 4.自然语言处理
 北京大学常宝宝老师同步课程 Python代码实现
+  
 # 5.LeetCode刷题，题析，分析心得笔记
 
 # 普通程序员如何正确学习人工智能方向的知识？
