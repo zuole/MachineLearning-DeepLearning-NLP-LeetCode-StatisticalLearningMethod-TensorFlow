@@ -38,27 +38,27 @@ https://study.163.com/course/introduction/1004570029.htm
 # 2.深度学习
 deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） Python代码实现  
 https://mooc.study.163.com/smartSpec/detail/1001319001.htm  
-## 1.Neural Networks and Deep Learning  
-Week1　Introduction to deep learning  
-Week2　Neural Networks Basics  
-Week3　Shallow Neural networks  
-Week4　Deep Neural Networks  
+## 1.Neural Networks and Deep Learning   神经网络与深度学习   
+Week1　Introduction to deep learning  深度学习概论  
+Week2　Neural Networks Basics  神经网络基础  
+Week3　Shallow Neural networks  浅层神经网络  
+Week4　Deep Neural Networks  深层神经网络  
 
-## 2.Improving Deep Neural Networks  
-Week1　Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)  
-Week2　Optimization algorithms  
-Week3　Hyperparameter tuning, Batch Normalization and Programming Frameworks  
+## 2.Improving Deep Neural Networks  改善深层神经网络：超参数调试、正则化以及优化  
+Week1　Practical aspects of Deep Learning(Initialization-Regularization-Gradient Checking)  深层学习的实用  
+Week2　Optimization algorithms  优化算法  
+Week3　Hyperparameter tuning, Batch Normalization and Programming Frameworks  超参数调试&正则化&框架  
 
-## 3.Convolutional Neural Network  
-Week1　Foundations of Convolutional Neural Networks  
-Week2　Deep convolutional models: case studies  
-Week3　Object detection  
-Week4　Special applications: Face recognition & Neural style transfer  
+## 3.Convolutional Neural Network  卷积神经网络    
+Week1　Foundations of Convolutional Neural Networks  卷积神经网络  
+Week2　Deep convolutional models: case studies  深层卷积神经网络实例探究  
+Week3　Object detection  目标检测  
+Week4　Special applications: Face recognition & Neural style transfer  特殊的应用  
 
-## 4.Sequence Models  
-Week1　Recurrent Neural Networks  
-Week2　Natural Language Processing & Word Embeddings  
-Week3　Sequence models & Attention mechanism  
+## 4.Sequence Models  序列模型  
+Week1　Recurrent Neural Networks  循环序列模型  
+Week2　Natural Language Processing & Word Embeddings  自然语言处理与词嵌入  
+Week3　Sequence models & Attention mechanism  序列模型和注意力机制  
   
 # 3.统计学习方法
 《统计学习方法》的代码实现李航老师 Python代码实现  
