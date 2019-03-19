@@ -12,7 +12,7 @@
 Min's blog 欢迎访问我的博客主页！   
 (Welcome to my blog website !)https://liweimin1996.github.io/   
 
-# 1.机器学习
+# 1.机器学习（更新中）  
 吴恩达老师的机器学习课程个人笔记 Python代码实现  
 https://study.163.com/course/introduction/1004570029.htm       
 - ex1-linear regression 作业1 线性回归  
@@ -35,7 +35,7 @@ https://study.163.com/course/introduction/1004570029.htm
 8.1：使用多元高斯模型进行异常检测。 Precision, recall, F1 score.  
 8.2：构建推荐系统并用它来推荐电影。  
   
-# 2.深度学习
+# 2.深度学习（更新中）  
 deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） Python代码实现  
 https://mooc.study.163.com/smartSpec/detail/1001319001.htm  
 ## 1.Neural Networks and Deep Learning   神经网络与深度学习   
@@ -60,7 +60,7 @@ Week1　Recurrent Neural Networks  循环序列模型
 Week2　Natural Language Processing & Word Embeddings  自然语言处理与词嵌入  
 Week3　Sequence models & Attention mechanism  序列模型和注意力机制  
   
-# 3.统计学习方法
+# 3.统计学习方法（更新中）  
 《统计学习方法》的代码实现李航老师 Python代码实现  
 http://vdisk.weibo.com/s/vfFpMc1YgPOr  
 - 第 1 章 统计学习方法概论
@@ -76,17 +76,17 @@ http://vdisk.weibo.com/s/vfFpMc1YgPOr
 - 第 11 章 条件随机场
 - 第 12 章 统计学习方法总结
   
-# 4.自然语言处理
+# 4.自然语言处理（更新中）  
 我最近在上这门课程，所以也顺便学习一下。  
 牛津大学xDeepMind 自然语言处理  
 https://study.163.com/course/introduction/1004336028.htm    
 
 
-# 5.LeetCode刷题，题析，分析心得笔记    
+# 5.LeetCode刷题，题析，分析心得笔记 （更新中）     
 https://github.com/soulmachine/leetcode    
 这位作者写的十分好，我也会部分参考TA的思路和答案  
 
-# 6.TensorFlow人工智能实践代码笔记
+# 6.TensorFlow人工智能实践代码笔记（更新中）  
 北京大学曹健老师课程和TensorFlow：实战Google深度学习框架（第二版） Python代码实现  
 - 第一讲概述
 - 第二讲python的常用语法
