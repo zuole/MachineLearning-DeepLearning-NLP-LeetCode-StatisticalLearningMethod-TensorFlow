@@ -15,14 +15,25 @@ Min's blog 欢迎访问我的博客主页！
 # 1.机器学习
 吴恩达老师的机器学习课程个人笔记 Python代码实现  
 https://study.163.com/course/introduction/1004570029.htm       
-- ex1-linear regression 作业1 线性回归
-- ex2-logistic regression 作业2 logistic回归
-- ex3-neural network 作业3 神经网络
-- ex4-NN back propagation 作业4 神经网络反向传播
-- ex5-bias vs variance 作业5 贝叶斯和方差
-- ex6-SVM 作业6 支持向量机
-- ex7-kmeans and PCA 作业7 kmeans算法和主成分分析
-- ex8-anomaly detection and recommendation 作业8 异常检测和推荐
+- ex1-linear regression 作业1 线性回归  
+有一个变量和多个变量。  
+- ex2-logistic regression 作业2 logistic回归  
+包括正则化。  
+- ex3-neural network 作业3 神经网络  
+使用两种不同的方法识别手写数字：one-vs-all逻辑回归，以及前向传播预训练的神经网络。  
+- ex4-NN back propagation 作业4 神经网络反向传播  
+构建和训练神经网络，包括反向传播，并将其用于手写数字识别。  
+- ex5-bias vs variance 作业5 贝叶斯和方差  
+包括学习曲线和多项式回归。  
+- ex6-SVM 作业6 支持向量机  
+6.1：在一些样本2D数据集上展示scikit-learn SVM，其中包含线性和高斯核函数。  
+6.2：使用自然语言处理和scikit-learn SVM构建电子邮件垃圾邮件分类器。  
+- ex7-kmeans and PCA 作业7 kmeans算法和主成分分析  
+7.1：构建k-means聚类算法并将其用于图像压缩。  
+7.2：构建PCA算法并将其用于图像压缩和可视化。  
+- ex8-anomaly detection and recommendation 作业8 异常检测和推荐  
+8.1：使用多元高斯模型进行异常检测。 Precision, recall, F1 score.  
+8.2：构建推荐系统并用它来推荐电影。  
   
 # 2.深度学习
 deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） Python代码实现  
